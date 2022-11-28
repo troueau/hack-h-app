@@ -1,0 +1,16 @@
+[
+    {
+        "title": "title de notif1",
+        "message": "message de la notif1",
+        "isGeneral": "true",
+        "nom_du_festival": "festival1",
+        "identifiant": "identifiant1"
+    },
+    {
+        "title": "title de notif2",
+        "message": "message de la notif2",
+        "isGeneral": "true",
+        "nom_du_festival": "festival2",
+        "identifiant": "identifiant2"
+    }
+]
